@@ -1,6 +1,6 @@
 # ER diagram
 
-##AIM:
+## AIM:
 To analyze the problem and come with the entities in it and identify the constraints in creating the database.
 
 Scenario: Hospital Database
