@@ -1,11 +1,12 @@
 # ER diagram
 
-AIM:
+##AIM:
 To analyze the problem and come with the entities in it and identify the constraints in creating the database.
+
 Scenario: Hospital Database
 The Hospital Management System is a tailored operational model for healthcare institutions. Its primary function is to efficiently register, store, and retrieve patient and doctor details, allowing meaningful manipulation of the data.
 
-User Requirements:
+##User Requirements:
 
 1.Patient Management:
 The hospital needs to manage information about patients, including their unique PatientID, fullname, date of birth, gender, address, contact information (phone number, email), and insurance details. 
@@ -30,5 +31,5 @@ The hospital needs to maintain electronic medical records for each patient visit
 ![image](https://github.com/user-attachments/assets/b53b1cd1-a447-4887-8f0b-3d6ab1f5bca3)
 
 
-Result:
+##Result:
 Thus,the ER Diagram is constructed and explained for the given problem statement.
